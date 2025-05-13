@@ -18,5 +18,5 @@ TurboGet is a smart, dynamic file downloader that benchmarks `curl` and `aria2c`
 ## Usage
 
 ```bash
-chmod +x download-fastest.sh
-./download-fastest.sh "https://example.com/yourfile.mp4"
+chmod +x turbo-get.sh
+./turbo-get.sh "https://example.com/yourfile.zip"
